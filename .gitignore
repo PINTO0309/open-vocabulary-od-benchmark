@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Data
+data/
+*.jpg
+*.png
+*.jpeg
+*.mp4
+*.avi
+
+# Models
+*.pth
+*.pt
+*.onnx
+*.h5
+*.pb
+*.tflite
+checkpoints/
+weights/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Results
+results/
+outputs/
+logs/
+*.log
+
+# UV
+.python-version
