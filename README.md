@@ -16,31 +16,26 @@ PyTorchおよびONNXを使用した、オープンボキャブラリー物体検
 
 ### 2. YOLO-UniOW
 - **論文**: "Unified Open-Vocabulary Object Detection with YOLO" (2024)
-- **公式実装**: https://github.com/UNT-Xu-Lab/YOLO-UniOW
 - **ライセンス**: Apache-2.0 (CLIPモデル部分)、GPL-3.0 (YOLO部分)
 - **特徴**: YOLOとCLIPを統合した検出システム
 
 ### 3. LEAF-YOLO
 - **論文**: "Language-Embedded Anchor-Free YOLO for Open-Vocabulary Detection" (2024)
-- **公式実装**: https://github.com/ForestDeer/LEAF-YOLO
 - **ライセンス**: Apache-2.0
 - **特徴**: 言語埋め込みを活用したアンカーフリー検出
 
 ### 4. SMD-YOLO
 - **論文**: "Semantic-Matched Detection with YOLO" (2024)
-- **公式実装**: https://github.com/hjc3613/SMD-YOLO
 - **ライセンス**: MIT
 - **特徴**: セマンティックマッチングを強化したYOLOベース検出
 
 ### 5. OVLW-DETR
 - **論文**: "Open-Vocabulary Lightweight DETR" (2023)
-- **公式実装**: https://github.com/anonymous-ovlw/OVLW-DETR
 - **ライセンス**: Apache-2.0
 - **特徴**: DETRの軽量版でオープンボキャブラリー対応
 
 ### 6. LightMDETR
 - **論文**: "Lightweight Multimodal DETR for Open-Vocabulary Detection" (2024)
-- **公式実装**: https://github.com/Light-MDETR/Light-MDETR
 - **ライセンス**: Apache-2.0
 - **特徴**: マルチモーダル機能を持つ軽量DETR
 
@@ -52,7 +47,6 @@ PyTorchおよびONNXを使用した、オープンボキャブラリー物体検
 
 ### 8. DetCLIPv2
 - **論文**: "DetCLIPv2: Scalable Open-Vocabulary Object Detection" (2023)
-- **公式実装**: https://github.com/IDEA-Research/DetCLIPv2
 - **ライセンス**: MIT
 - **特徴**: CLIPを活用したスケーラブルな検出システム
 
